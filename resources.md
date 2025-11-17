@@ -147,7 +147,7 @@ For me, I learned best taking apart models from video games and inspecting how t
 - [**Posemaniacs muscle references**](https://www.posemaniacs.com/en/muscles)
 - Various nude human pose packs from **Artstation**, which range between $10-30. Worth picking up one for high-res references!
 
-# Bird Anatomy
+## Bird Anatomy
 - (FREE) [**How to Draw Wings** by **Monika Zagrobelna**](https://monikazagrobelna.com/2019/08/23/sketchbook-original-how-to-draw-wings/)
   - THE bird anatomy tutorial where I link to everyone the diagram with feather overlaps. Also, feather overlaps are a **common mistake!** Please read this. Please.
   - Recommendation: **Beginner, Intermediate**
@@ -190,11 +190,23 @@ For me, I learned best taking apart models from video games and inspecting how t
 - [**Respectful Owl Photography** by International Owl Center](https://www.internationalowlcenter.org/respectful_observation.html#:~:text=Move%20slowly%20and%20keep%20your,it's%20safe%20to%20do%20so.) 
   - very good examples of various owl body language
 
-## Animal Anatomy
+## Insect Anatomy
+- [**Bug Drawing Tutorials** by **Mark Simmons**](https://bsky.app/profile/toysdream.bsky.social/post/3lw3yzrgn5c23)
+  - Recommended: **Beginner, Intermediate, Advanced**
+  
+- [**Insect Limb Tips** by **Bogleech**](https://www.tumblr.com/bogleech/169792116898/i-often-have-trouble-reading-insect-anatomy-and)
+  - Also highlights a common mistake with raptorial limbs in mantises.
+  - Recommended: **Beginner, Intermediate, Advanced**
+
+## General Animal Anatomy
 (Not very complete at the moment... I also specialize in reptiles, which don't get a lot of tutorials. Maybe I'll write something up for those eventually.
 
-When in doubt, look to Aaron Blaise, I suppose?)
-- [**iNaturalist**](www.inaturalist.org) is a great resource for animal reference photos!
+When in doubt, look to Aaron Blaise, I suppose? In general, I like Googling '(animal name) (optional:muscle/skeleton) anatomy', and sometimes specific parts!)
+
+- [**Animal Perspective Photo Reference Search** by **x6udpngx**](https://x6ud.github.io/#/)
+  - Lets you turn around a 3D animal skull and retrieves reference images from that angle!
+
+- [**iNaturalist**](https://www.inaturalist.org) is a great resource for animal reference photos!
 
 (TODO: Dinosaur anatomy, as well.)
 
@@ -436,6 +448,7 @@ My contact can be found on my [portfolio site](https://heckingsne.cc/#/gallery?p
 Feel free to suggest resources. However, I tend to vet my resources for effectiveness before suggesting them (and I have quite a backlog of art textbooks), so they may not go live on the site immediately, or at all.
 
 ### Special Thanks
-- All the artists who offered up their resources for free, whom I've sourced and credited here. (Please contact me if you'd like anything taken down!)
+- All the artists who offered up their resources, whom I've sourced and credited here. (Please contact me if you'd like anything taken down!)
 - My fellow art study buddy, [Nisnow](https://nisnow.art/) (check out their art!)
+- Chuji 🍉 for beta reading 
 
