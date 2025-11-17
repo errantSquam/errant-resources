@@ -13,6 +13,7 @@ export function Welcome() {
       return response.text()
     }
   })
+  //test
   return (
     <main className="flex flex-col p-10 pt-16 pb-4 space-y-4 w-full md:w-2/3">
       <div id = "top"/>
