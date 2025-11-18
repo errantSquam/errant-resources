@@ -211,7 +211,9 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
 
 When in doubt, look to Aaron Blaise, I suppose? In general, I like Googling '(animal name) (optional:muscle/skeleton) anatomy', and sometimes specific parts!)
 
-(You can look for good references in the Visual Library/References section, too. :)
+(You can look for good references in the Visual Library/References section, too. :))
+
+(*Future TODO: Dinosaurs...*)
 
 ---
 # Visual Library / References
