@@ -412,8 +412,8 @@ Stickers, acrylic charms, etc. For people who want to do boothing or zines!
 
 ### Zines
 
-- [**ZINE GUIDE IN A NUTSHELL** by unknown](https://docs.google.com/document/d/1bwf5E_nbt0X-9UxgrRqd4hTI3RQmo1GuokOWz2nyULo/edit?tab=t.0#heading=h.epj7ja4iv3rb) 
-  - Please let me know who made this doc, if possible!
+- [**ZINE GUIDE IN A NUTSHELL** by Miniyuna](https://docs.google.com/document/d/1bwf5E_nbt0X-9UxgrRqd4hTI3RQmo1GuokOWz2nyULo/edit?tab=t.0#heading=h.epj7ja4iv3rb) 
+  - Miniyuna's socials can be found [here](theminiyuna.carrd.co)!
 
 ### Manufacturers
 Since most manufacturers are located in China, and a lot of Artist Alley resources out there are for Americans, this will be more of a Chinese-centric resource that assumes you know how to speak Chinese and want to go the extra mile. Which isn't a huge crowd, but hey, shout-out to my fellow EN/CN speakers.
@@ -536,8 +536,9 @@ Feel free to suggest resources. However, I tend to vet my resources for effectiv
 
 ## Special Thanks
 - All the artists who offered up their resources, whom I've sourced and credited here. (Please contact me if you'd like anything taken down!)
+- [Viri](https://bsky.app/profile/virize.art) for helping me with commercial art advice and graphic design throughout my art journey.
 - My fellow art study buddy, [Nisnow](https://nisnow.art/) (check out their art!)
-- Chuji 🍉 for beta reading 
+- Chuji 🍉 for beta reading. He also helped me do my commissions Google Forms!
 
 ## Donate
 Want to help fund my art textbook addiction?
