@@ -447,13 +447,16 @@ I believe in sharing knowledge, but I don't want this to be a repository for pir
 
 Still, if you can't afford them (for one reason or the other), you can reach out to me. Send me examples of your art (SFW only please), which resources you want, why you want them, and I'll see what I can do. This is subject to my own judgment and I reserve the right to say no.
 
-### Contact
+## Contact
 My contact can be found on my [portfolio site](https://heckingsne.cc/#/gallery?page=1). Please use Bluesky DMs for informal communication, if possible. 
 
 Feel free to suggest resources. However, I tend to vet my resources for effectiveness before suggesting them (and I have quite a backlog of art textbooks), so they may not go live on the site immediately, or at all.
 
-### Special Thanks
+## Special Thanks
 - All the artists who offered up their resources, whom I've sourced and credited here. (Please contact me if you'd like anything taken down!)
 - My fellow art study buddy, [Nisnow](https://nisnow.art/) (check out their art!)
 - Chuji 🍉 for beta reading 
 
+## Donate
+Want to help fund my art textbook addiction?
+[![](support_me_on_kofi_beige.png)](https://ko-fi.com/errantsquam)
