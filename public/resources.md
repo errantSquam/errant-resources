@@ -144,6 +144,11 @@ For me, I learned best taking apart models from video games and inspecting how t
   - Recommended study: Copy 1-2 diagrams every day. Start with *Skeleton and Bone Reference Points* if you can.
   - Recommendation: **Beginner, Intermediate, Advanced**
 
+- (PAID) [**Understanding the Human Figure** by **Anatomy for Sculptors**](https://anatomy4sculptors.com/product/understanding-the-human-figure/?attribute_select-format=PDF+eBook&attribute_select-language=English)
+  - don't let the name fool you, this is applicable to traditional drawing too! Lots of cool niche anatomy facts and really good breakdown of the muscle layers
+  - It's a bit on the more advanced side but I think beginners venturing into intermediate level can give it a look too.
+  - Recommendation: **Intermediate, Advanced**
+
 - [**Posemaniacs muscle references**](https://www.posemaniacs.com/en/muscles)
 - Various nude human pose packs from **Artstation**, which range between $10-30. Worth picking up one for high-res references!
 
