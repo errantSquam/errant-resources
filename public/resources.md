@@ -96,17 +96,19 @@ These are also worth a watch, and free! I tend to prefer no-nonsense YouTube vid
 ---
 # Other Mediums
 ## Pixel Art
+
 - (FREE) [**Pixel Joint's Pixel Art Tutorial**](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
   - An excellent introductory tutorial to Pixel Art.
   - Recommendation: **Beginner**
+
 - (FREE) [**Cyangmou's Pixel Art Tutorials**](https://lospec.com/pixel-art-tutorials/author/cyangmou)
   - Nice, bite-sized tutorials that occasionally analyze your favourite video game.
   - Recommendation: **Beginner, Intermediate, Advanced**
+
 - (PAID) [**Pixel Logic**](https://pixellogicbook.com/)
   - A digital textbook that goes into the meat of how pixel-art works. Analyzes a lot of different mediums and the history of pixelart!
   - Recommendation: **Beginner, Intermediate, Advanced**
 
-- [Spriter's Resource](http://spriters-resource.com/) is also a repository of sprites ripped from video games.
 
 ## 3D Modelling
 Personally I wouldn't consider myself too advanced when it comes to 3D modelling, and I'm still learning. Will update this over time as I find resources that work.
@@ -121,6 +123,17 @@ For me, I learned best taking apart models from video games and inspecting how t
   - English tutorials are easy enough to find, but 夏森轄's video showcases techniques close to industry standard for stylized faces.
   - He also uses some uncommon modelling techniques, such as using proportional editing instead of sculpt -> retopo!
   - Recommendation: **Beginner, Intermediate, Advanced**
+
+## Vector Art/Graphic Design
+
+If you're looking for a graphic design/prototyping program, I'll always recommend [*Figma!*](https://www.figma.com) It's free and has built in collaboration like Google Docs. Just make sure to download the app; the website is really slow.
+
+- [**Bezier Game**](https://bezier.method.ac/) teaches you how to use the pen tool in programs like Illustrator.
+  - Recommended: **Beginner**
+
+- [**Thinking with Type**](https://archive.org/details/thinkingwithtype0000lupt) is a textbook that teaches you about typography.
+  - Recommended: **Beginner, Intermediate**
+
 
 ---
 # Anatomy 
@@ -149,8 +162,9 @@ For me, I learned best taking apart models from video games and inspecting how t
   - It's a bit on the more advanced side but I think beginners venturing into intermediate level can give it a look too.
   - Recommendation: **Intermediate, Advanced**
 
-- [**Posemaniacs muscle references**](https://www.posemaniacs.com/en/muscles)
-- Various nude human pose packs from **Artstation**, which range between $10-30. Worth picking up one for high-res references!
+- (FREE) [**Draw Great Hand Poses** by **Marco Bucci**](https://www.youtube.com/watch?v=oBwb2tNSrng)
+  - I don't usually rec YT tutorials, but this one is a great simplification of how hands work, for anyone who hasn't gotten into the anatomy meat and bones yet.
+  - Recommendation: **Beginner, Intermediate**
 
 ## Bird Anatomy
 - (FREE) [**How to Draw Wings** by **Monika Zagrobelna**](https://monikazagrobelna.com/2019/08/23/sketchbook-original-how-to-draw-wings/)
@@ -172,7 +186,6 @@ For me, I learned best taking apart models from video games and inspecting how t
   - Part 2 - [Top Side/Dorsal](https://www.youtube.com/watch?v=TGiIlwnaNmM)
 
 
-
 - (PAID) [**Bird Anatomy for Artists** by **Dr. Natalia Balo**](https://www.nhbs.com/bird-anatomy-for-artists-book) 
   - Highly recommend this one! Very comprehensive and my go-to bird bible. Bit pricey though.
   - Recommendation: **Intermediate, Advanced**
@@ -184,16 +197,6 @@ For me, I learned best taking apart models from video games and inspecting how t
 - (PAID) [**How to draw Birds of Prey** with **Aaron Blaise**](https://creatureartteacher.com/product/how-to-draw-birds-of-prey-with-aaron-blaise/)
   - Yes, I'm recommending Aaron Blaise a second time because he's just that good.
   - Recommendation: **Beginner, Intermediate, Advanced**
-
-### Misc
-**NOT ART SPECIFIC RESOURCES** but can be very useful for learning more about birds.
-- [**Puget Sound's** Bird Wing and Tail Collection](https://www.pugetsound.edu/puget-sound-museum-natural-history/biodiversity-resources/birds/wing-tail-image-collection)
-- [**eBird!**](https://ebird.org/)
-  - Each bird has a gallery with high res photo sent in by contributors.
-- [**The Pocket Book of Bird Anatomy** by Marianne Taylor](https://www.amazon.sg/Pocket-Book-Bird-Anatomy/dp/1472976924) 
-  - has some interesting/useful anatomy diagrams/good crash course on bird stuff. May be helpful for writing too!
-- [**Respectful Owl Photography** by International Owl Center](https://www.internationalowlcenter.org/respectful_observation.html#:~:text=Move%20slowly%20and%20keep%20your,it's%20safe%20to%20do%20so.) 
-  - very good examples of various owl body language
 
 ## Insect Anatomy
 - [**Bug Drawing Tutorials** by **Mark Simmons**](https://bsky.app/profile/toysdream.bsky.social/post/3lw3yzrgn5c23)
@@ -208,12 +211,84 @@ For me, I learned best taking apart models from video games and inspecting how t
 
 When in doubt, look to Aaron Blaise, I suppose? In general, I like Googling '(animal name) (optional:muscle/skeleton) anatomy', and sometimes specific parts!)
 
+(You can look for good references in the Visual Library/References section, too. :))
+
+(*Future TODO: Dinosaurs...*)
+
+---
+# Visual Library / References
+
+- If there's any book you want, check if it exists on [archive.org!](https://archive.org/)
+
+## Human
+
+### Photos
+
+- [**Posemaniacs muscle references**](https://www.posemaniacs.com/en/muscles)
+
+- [**Human Anatomy for Artist**](https://www.human-anatomy-for-artist.com/)
+
+- [**Reference Angle**](http://referenceangle.com/) lets you rotate a 3D head and get reference photos in that angle!
+
+- Various nude human pose packs from **Artstation**, which range between $10-30. Worth picking up one for high-res references!
+
+### Anime
+
+- [**Settei Dreams**](https://setteidreams.net/settei/) for reference sheets/turnarounds of anime characters.
+
+- [**Sakugabooru**](https://www.sakugabooru.com/) for cool animation shots. You can pause or play the animations at slower speeds. Great for practicing action frames.
+
+- [**Gesture Drawing Party**](https://www.youtube.com/@gesdrawparty) is a YouTube channel with free, recorded gesture drawing sessions.
+
+## Animal
+
+### General
+
 - [**Animal Perspective Photo Reference Search** by **x6udpngx**](https://x6ud.github.io/#/)
-  - Lets you turn around a 3D animal skull and retrieves reference images from that angle!
+  - Lets you turn around a 3D animal skull and retrieves reference images from that angle! Reference Angle but for animals.
 
 - [**iNaturalist**](https://www.inaturalist.org) is a great resource for animal reference photos!
 
-(TODO: Dinosaur anatomy, as well.)
+- [**Veterinary Anatomy**](https://vanat.ahc.umn.edu/) for the anatomyheads.
+
+### Bird
+
+- [**eBird**](https://ebird.org/)
+  - Each bird has a gallery with high res photo sent in by contributors.
+  - You can filter by specific actions, such as flying.
+
+- [**Puget Sound's** Bird Wing and Tail Collection](https://www.pugetsound.edu/puget-sound-museum-natural-history/biodiversity-resources/birds/wing-tail-image-collection)
+
+- [**Featherbase**](https://www.featherbase.info/uk/home) details some niche facts about bird feather counts. Great for scientific illustrators!
+
+- [**The Pocket Book of Bird Anatomy** by Marianne Taylor](https://www.amazon.sg/Pocket-Book-Bird-Anatomy/dp/1472976924) 
+  - has some interesting/useful anatomy diagrams/good crash course on bird stuff. May be helpful for writing too!
+
+- [**Respectful Owl Photography** by International Owl Center](https://www.internationalowlcenter.org/respectful_observation.html#:~:text=Move%20slowly%20and%20keep%20your,it's%20safe%20to%20do%20so.) 
+  - very good examples of various owl body language
+
+## Environments
+
+- [Random Street View!](https://randomstreetview.com/) randomizes a Google street view for you to practice on.
+
+## Other
+
+### Graphic Design
+
+- [**dribbble**](https://dribbble.com/)
+
+- [**awwwards**](https://www.awwwards.com/)
+
+- [**html5up**](https://html5up.net/) offers a list of templates for portfolio site use! Great to host on Github Pages or Neocities. 
+
+### Video Games
+
+- [Spriter's Resource](http://spriters-resource.com/) is a repository of sprites ripped from video games.
+
+- Similarly, [The Modeler's Resource](https://models.spriters-resource.com/) provides 3D models you can play around with.
+
+- [noclip](https://noclip.website/) lets you view various video game environments!
+
 
 ---
 # Other Exercises
@@ -332,8 +407,15 @@ Also, see [How to Cold Call (Email) Art Directors](https://www.muddycolors.com/2
 
 ---
 ## Manufacturing and Manufacturers
-Stickers, acrylic charms, etc. For people who want to do boothing!
 
+Stickers, acrylic charms, etc. For people who want to do boothing or zines!
+
+### Zines
+
+- [**ZINE GUIDE IN A NUTSHELL** by unknown](https://docs.google.com/document/d/1bwf5E_nbt0X-9UxgrRqd4hTI3RQmo1GuokOWz2nyULo/edit?tab=t.0#heading=h.epj7ja4iv3rb) 
+  - Please let me know who made this doc, if possible!
+
+### Manufacturers
 Since most manufacturers are located in China, and a lot of Artist Alley resources out there are for Americans, this will be more of a Chinese-centric resource that assumes you know how to speak Chinese and want to go the extra mile. Which isn't a huge crowd, but hey, shout-out to my fellow EN/CN speakers.
 
 - [Chinese Manufacturer Group Order Spreadsheet](https://docs.qq.com/sheet/DUFNsa09zRkRrQmZP?tab=BB08J2)
