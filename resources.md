@@ -536,8 +536,9 @@ Feel free to suggest resources. However, I tend to vet my resources for effectiv
 
 ## Special Thanks
 - All the artists who offered up their resources, whom I've sourced and credited here. (Please contact me if you'd like anything taken down!)
+- [Viri](https://bsky.app/profile/virize.art) for helping me with commercial art advice and graphic design throughout my art journey.
 - My fellow art study buddy, [Nisnow](https://nisnow.art/) (check out their art!)
-- Chuji 🍉 for beta reading 
+- Chuji 🍉 for beta reading. He also helped me do my commissions Google Forms!
 
 ## Donate
 Want to help fund my art textbook addiction?
