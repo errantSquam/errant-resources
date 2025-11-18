@@ -413,7 +413,7 @@ Stickers, acrylic charms, etc. For people who want to do boothing or zines!
 ### Zines
 
 - [**ZINE GUIDE IN A NUTSHELL** by Miniyuna](https://docs.google.com/document/d/1bwf5E_nbt0X-9UxgrRqd4hTI3RQmo1GuokOWz2nyULo/edit?tab=t.0#heading=h.epj7ja4iv3rb) 
-  - Miniyuna's socials can be found [here](theminiyuna.carrd.co)!
+  - Miniyuna's socials can be found [here](https://theminiyuna.carrd.co)!
 
 ### Manufacturers
 Since most manufacturers are located in China, and a lot of Artist Alley resources out there are for Americans, this will be more of a Chinese-centric resource that assumes you know how to speak Chinese and want to go the extra mile. Which isn't a huge crowd, but hey, shout-out to my fellow EN/CN speakers.
