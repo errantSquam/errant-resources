@@ -5,6 +5,7 @@ import Markdown from "react-markdown";
 import remarkToc from "remark-toc";
 import rehypeSlug from "rehype-slug";
 import rehypeExternalLinks from "rehype-external-links";
+import { useEffect } from "react";
 
 function LinkRenderer(props: any) {
   console.log({ props });
@@ -23,6 +24,12 @@ export function Welcome() {
       return response.text()
     }
   })
+
+  useEffect(() => {
+    let id = window.location.hash.substring(1)
+    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' })
+
+  }, [mdQuery.isSuccess])
   //test
   return (
     <main className="flex flex-col p-10 pt-16 pb-4 space-y-4 w-full md:w-2/3">
