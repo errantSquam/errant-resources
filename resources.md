@@ -244,12 +244,25 @@ When in doubt, look to Aaron Blaise, I suppose? In general, I like Googling '(an
 
 ### General
 
+Good Google search term word for anatomy: `myology`
+
 - [**Animal Perspective Photo Reference Search** by **x6udpngx**](https://x6ud.github.io/#/)
   - Lets you turn around a 3D animal skull and retrieves reference images from that angle! Reference Angle but for animals.
 
 - [**iNaturalist**](https://www.inaturalist.org) is a great resource for animal reference photos!
 
-- [**Veterinary Anatomy**](https://vanat.ahc.umn.edu/) for the anatomyheads.
+- Veterinary Anatomy websites:
+  - [**Minnesota Veterinary Anatomy**](https://vanat.ahc.umn.edu/) 
+  - [**iMaios Vet Anatomy**](https://www.imaios.com/en/vet-anatomy)
+  - [**Diogo Guerra**](https://diogoguerra.com/resources-veterinary-anatomy)
+
+- [**Morphosource**](https://www.morphosource.org/) for 3D scans of more obscure animals.
+
+- [**Animal Diversity Web**](https://animaldiversity.org/)
+
+#### Extremely Meaty Resources
+Not for the faint of heart.
+- [**The Dissection of Vertebrates, Third Edition**](https://batrachos.com/sites/default/files/pictures/Books/De%20Iuliis_Puler%C3%A0_2019_The%20Dissection%20of%20Vertebrates.pdf)
 
 ### Bird
 
