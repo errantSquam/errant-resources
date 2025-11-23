@@ -207,11 +207,10 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
   - Recommended: **Beginner, Intermediate, Advanced**
 
 ## General Animal Anatomy
-(Not very complete at the moment... I also specialize in reptiles, which don't get a lot of tutorials. Maybe I'll write something up for those eventually.
 
-When in doubt, look to Aaron Blaise, I suppose? In general, I like Googling '(animal name) (optional:muscle/skeleton) anatomy', and sometimes specific parts!)
+No tutorials that I've thoroughly vetted at the moment, besides Aaron Blaise's courses! You can't go wrong with those.
 
-(You can look for good references in the Visual Library/References section, too. :))
+However, the Visual Library section has a lot of specific resources :)
 
 (*Future TODO: Dinosaurs...*)
 
@@ -244,14 +243,53 @@ When in doubt, look to Aaron Blaise, I suppose? In general, I like Googling '(an
 
 ### General
 
+Good Google search term word for anatomy: `myology`
+
 - [**Animal Perspective Photo Reference Search** by **x6udpngx**](https://x6ud.github.io/#/)
   - Lets you turn around a 3D animal skull and retrieves reference images from that angle! Reference Angle but for animals.
 
 - [**iNaturalist**](https://www.inaturalist.org) is a great resource for animal reference photos!
 
-- [**Veterinary Anatomy**](https://vanat.ahc.umn.edu/) for the anatomyheads.
+- [**Animal Diversity Web**](https://animaldiversity.org/) is a biology website that occasionally has diagrams of animals.
 
-### Bird
+- [**Encyclopedia of Life**](https://eol.org/) is an extremely comprehensive collection of animal anatomy.
+
+- [**The Dissection of Vertebrates, Third Edition**](https://batrachos.com/sites/default/files/pictures/Books/De%20Iuliis_Puler%C3%A0_2019_The%20Dissection%20of%20Vertebrates.pdf) (extremely technical)
+
+#### Muscle
+
+- Veterinary Anatomy websites:
+  - [**Minnesota Veterinary Anatomy**](https://vanat.ahc.umn.edu/) 
+  - [**iMaios Vet Anatomy**](https://www.imaios.com/en/vet-anatomy)
+  - [**Diogo Guerra**](https://diogoguerra.com/resources-veterinary-anatomy)
+
+- [**Morphosource**](https://www.morphosource.org/) for 3D scans of more obscure animals.
+
+
+#### Skeleton
+
+Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/comments/ips3dt/online_references_for_bone_identification/), but also archiving the individual links here as nothing on the internet lasts forever.
+
+- [**Skullbase**](https://skullbase.info/)
+
+- [**ArchéoZoothèque**](https://www.archeozoo.org/archeozootheque/)
+
+- [**BoneID**](http://www.boneid.net/)
+
+
+### Fish
+
+##### Skeleton 
+- [**Pictorial Skeletal Atlas of Fishes**](https://www.floridamuseum.ufl.edu/fishatlas/)
+
+- [**Marine Fish Osteology**](https://archpress.lib.sfu.ca/index.php/archpress/catalog/book/49)
+
+### Herps
+
+##### Skeleton
+- [**Blackburn Lab**](https://sketchfab.com/ufherps) has 3D models of herp skeletons/muscles.
+
+### Birds
 
 - [**eBird**](https://ebird.org/)
   - Each bird has a gallery with high res photo sent in by contributors.
@@ -266,6 +304,14 @@ When in doubt, look to Aaron Blaise, I suppose? In general, I like Googling '(an
 
 - [**Respectful Owl Photography** by International Owl Center](https://www.internationalowlcenter.org/respectful_observation.html#:~:text=Move%20slowly%20and%20keep%20your,it's%20safe%20to%20do%20so.) 
   - very good examples of various owl body language
+
+#### Skeleton 
+
+- [**Skullsite**](https://skullsite.com/) has a collection of bird bones.
+
+
+### Mammals
+- [**Elk Anatomy Diagram**](https://www.elk101.com/wp-content/uploads/2010/11/elkshotplacement1.pdf)
 
 ## Environments
 
@@ -312,7 +358,7 @@ Please Google any technical terms for further reading if you'd like :)
 A lot of people ask me how I draw fast (I tend to finish lightweight paintings in about 1-2 hours). I used to take about several weeks to finish art, so hope is not lost! It's totally doable. 
 
 Huge caveat before you read the rest, though:
-### DRAW AS MUCH AS IS COMFORTABLE. YOU SHOULD NOT BE PUSHING YOURSELF OR FEELING STRAIN.
+***DRAW AS MUCH AS IS COMFORTABLE. YOU SHOULD NOT BE PUSHING YOURSELF OR FEELING STRAIN.***
 
 If you feel strain, **stop.** Pause the timer. Re-evaluate your posture. Adjust your posture until the pain goes away (if it's nerve pain), or if it's just achey, then stop.
 

@@ -37,7 +37,7 @@ export function Welcome() {
 
       <Markdown
         remarkPlugins={[
-          [remarkToc, { tight: true, maxDepth: 2 }],
+          [remarkToc, { tight: true, maxDepth: 3 }],
 
         ]}
 
