@@ -47,9 +47,11 @@ Be nice to yourself, and you'd be surprised by how much your brain processes kno
 It gets easier every time you return to the hobby.
 
 ---
-# General Fundamentals
+# Tutorials/Guides
 
-## Drawing
+## General Fundamentals
+
+### Drawing
 
 - (FREE) [**Perspective Made Easy** by **Ernest R. Norling**](https://ia801206.us.archive.org/34/items/PerspectiveMadeEasy/Norling%20-%20Perspective%20Made%20Easy.pdf) 
   - Very good introduction to perspective! Super easy to digest.
@@ -61,7 +63,7 @@ It gets easier every time you return to the hobby.
   - Recommended study: *Copy the exercises in the first few chapters.*
   - Recommendation: **Intermediate, Advanced**
 
-## Rendering
+### Rendering
 
 - (PAID) **Devin Korwin's** **Creative Fundamentals**, [Part 1](https://underpaintacademy.com/product/creative-fundamentals-vol-1-ebook/), [Part 2](https://underpaintacademy.com/product/creative-fundamentals-vol-2-ebook/)
   - Very concise explanations of art fundamentals. Some of the best out there.
@@ -82,7 +84,7 @@ It gets easier every time you return to the hobby.
   - Recommended study: *Same as How to Draw. Do a few of the exercises every now and then.*
   - Recommendation: **Intermediate, Advanced**
 
-### YouTube Videos
+#### YouTube Videos
 These are also worth a watch, and free! I tend to prefer no-nonsense YouTube videos, because I find that it's saturated with clickbaity and unhelpful art advice these days.
 
 - Any of [James Gurney's landscape painting processes. ](https://www.youtube.com/@JamesGurney) 
@@ -94,8 +96,8 @@ These are also worth a watch, and free! I tend to prefer no-nonsense YouTube vid
   - Hungry Clicker mostly draws anime humans, but their range is pretty good. Quite a bit of realism in there too, and a variety of human face and body types. Good to analyze, though maybe overwhelming for beginners.
 
 ---
-# Other Mediums
-## Pixel Art
+## Other Mediums
+### Pixel Art
 
 - (FREE) [**Pixel Joint's Pixel Art Tutorial**](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
   - An excellent introductory tutorial to Pixel Art.
@@ -110,7 +112,7 @@ These are also worth a watch, and free! I tend to prefer no-nonsense YouTube vid
   - Recommendation: **Beginner, Intermediate, Advanced**
 
 
-## 3D Modelling
+### 3D Modelling
 Personally I wouldn't consider myself too advanced when it comes to 3D modelling, and I'm still learning. Will update this over time as I find resources that work.
 
 For me, I learned best taking apart models from video games and inspecting how they work!
@@ -124,7 +126,7 @@ For me, I learned best taking apart models from video games and inspecting how t
   - He also uses some uncommon modelling techniques, such as using proportional editing instead of sculpt -> retopo!
   - Recommendation: **Beginner, Intermediate, Advanced**
 
-## Vector Art/Graphic Design
+### Vector Art/Graphic Design
 
 If you're looking for a graphic design/prototyping program, I'll always recommend [*Figma!*](https://www.figma.com) It's free and has built in collaboration like Google Docs. Just make sure to download the app; the website is really slow.
 
@@ -136,14 +138,14 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
 
 
 ---
-# Anatomy 
+## Anatomy 
 
 - (PAID) [**Aaron Blaise's animal courses**](https://creatureartteacher.com/product-category/tutorials-lessons/animal-drawing-lessons/) 
   - These courses frequently go on sale for as low as $5-10. You can sign up for his newsletter to keep up to date on these deals!
   - A lot of them come with PSDs you can play around with, too. Highly recommend.
   - Recommendation: **Beginner, Intermediate, Advanced**
 
-## Human Anatomy
+### Human Anatomy
 
 - (FREE) [**DoctoLib's** **Classic Human Anatomy in Motion**](https://doctorlib.org/anatomy/classic-human-anatomy-motion/)
   - In-depth text tutorial on human anatomy.
@@ -166,7 +168,7 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
   - I don't usually rec YT tutorials, but this one is a great simplification of how hands work, for anyone who hasn't gotten into the anatomy meat and bones yet.
   - Recommendation: **Beginner, Intermediate**
 
-## Bird Anatomy
+### Bird Anatomy
 - (FREE) [**How to Draw Wings** by **Monika Zagrobelna**](https://monikazagrobelna.com/2019/08/23/sketchbook-original-how-to-draw-wings/)
   - THE bird anatomy tutorial where I link to everyone the diagram with feather overlaps. Also, feather overlaps are a **common mistake!** Please read this. Please.
   - Recommendation: **Beginner, Intermediate**
@@ -198,7 +200,7 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
   - Yes, I'm recommending Aaron Blaise a second time because he's just that good.
   - Recommendation: **Beginner, Intermediate, Advanced**
 
-## Insect Anatomy
+### Insect Anatomy
 - [**Bug Drawing Tutorials** by **Mark Simmons**](https://bsky.app/profile/toysdream.bsky.social/post/3lw3yzrgn5c23)
   - Recommended: **Beginner, Intermediate, Advanced**
   
@@ -206,7 +208,7 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
   - Also highlights a common mistake with raptorial limbs in mantises.
   - Recommended: **Beginner, Intermediate, Advanced**
 
-## General Animal Anatomy
+### General Animal Anatomy
 
 No tutorials that I've thoroughly vetted at the moment, besides Aaron Blaise's courses! You can't go wrong with those.
 
