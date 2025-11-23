@@ -321,6 +321,8 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
   - [**jetphotos**](jetphotos.net)
   - [**airliners.net**](airliners.net)
 
+- [**Gun Schematics**](https://www.brownells.com/gun-schematics/)
+
 ## Environments
 
 - [Random Street View!](https://randomstreetview.com/) randomizes a Google street view for you to practice on.
