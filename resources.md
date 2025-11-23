@@ -260,6 +260,8 @@ Good Google search term word for anatomy: `myology`
 
 - [**Animal Diversity Web**](https://animaldiversity.org/)
 
+- [**Blackburn Lab**](https://sketchfab.com/ufherps) has 3D models of herp skeletons/muscles.
+
 #### Extremely Meaty Resources
 Not for the faint of heart.
 - [**The Dissection of Vertebrates, Third Edition**](https://batrachos.com/sites/default/files/pictures/Books/De%20Iuliis_Puler%C3%A0_2019_The%20Dissection%20of%20Vertebrates.pdf)
