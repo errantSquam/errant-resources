@@ -313,6 +313,14 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 ### Mammals
 - [**Elk Anatomy Diagram**](https://www.elk101.com/wp-content/uploads/2010/11/elkshotplacement1.pdf)
 
+## Mecha/Hard Surface
+
+- [**Settei Dreams**](https://setteidreams.net/settei/), as mentioned above
+
+- High quality aeroplane resources:
+  - [**jetphotos**](jetphotos.net)
+  - [**airliners.net**](airliners.net)
+
 ## Environments
 
 - [Random Street View!](https://randomstreetview.com/) randomizes a Google street view for you to practice on.
