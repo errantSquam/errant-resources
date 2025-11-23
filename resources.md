@@ -289,7 +289,7 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 ##### Skeleton
 - [**Blackburn Lab**](https://sketchfab.com/ufherps) has 3D models of herp skeletons/muscles.
 
-### Bird
+### Birds
 
 - [**eBird**](https://ebird.org/)
   - Each bird has a gallery with high res photo sent in by contributors.
@@ -309,6 +309,9 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 
 - [**Skullsite**](https://skullsite.com/) has a collection of bird bones.
 
+
+### Mammals
+- [**Elk Anatomy Diagram**](https://www.elk101.com/wp-content/uploads/2010/11/elkshotplacement1.pdf)
 
 ## Environments
 
