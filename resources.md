@@ -320,8 +320,8 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 - [**Settei Dreams**](https://setteidreams.net/settei/), as mentioned above
 
 - High quality aeroplane resources:
-  - [**jetphotos**](jetphotos.net)
-  - [**airliners.net**](airliners.net)
+  - [**jetphotos**](https://jetphotos.net)
+  - [**airliners.net**](https://airliners.net)
 
 - [**Gun Schematics**](https://www.brownells.com/gun-schematics/)
 
