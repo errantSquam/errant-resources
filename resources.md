@@ -60,7 +60,7 @@ It gets easier every time you return to the hobby.
 
 - (FREE) [**How to Draw** by **Scott Robertson**](https://archive.org/details/how-to-draw-drawing-and-sketching-objects-and-environments-from-your-imagination-pdfdrive.com) 
   - IMO the superior (and less rigid/preachy) alternative to drawabox.com. Can be a little technical at the start but it's worth just doing the exercises once or twice. Very good for learning the logic behind foreshortening. 
-  - Recommended study: *Copy the exercises in the first few chapters.*
+  - Recommended study: *Copy the exercises in the first few chapters. Chapter 3 may be my favourite one when it comes to useful drawing skills!*
   - Recommendation: **Intermediate, Advanced**
 
 ### Rendering
