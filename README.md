@@ -262,7 +262,7 @@ Good Google search term word for anatomy: `myology`
 
 - Veterinary Anatomy websites:
   - [**Minnesota Veterinary Anatomy**](https://vanat.ahc.umn.edu/) 
-  - [**iMaios Vet Anatomy**](https://www.imaios.com/en/vet-anatomy)
+  - [**iMaios Vet Anatomy**](https://www.imaios.com/en/vet-anatomy) - Really useful step-by-step muscle breakdowns. You can still view the ones labelled 'premium', but you have to turn off the names of each part in the labels.
   - [**Diogo Guerra**](https://diogoguerra.com/resources-veterinary-anatomy)
 
 - [**Morphosource**](https://www.morphosource.org/) for 3D scans of more obscure animals.
