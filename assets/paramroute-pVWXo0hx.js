@@ -1,0 +1,1 @@
+import{w as t,p as o}from"./chunk-4WY6JWTD-DdqJ8cEk.js";import{W as r}from"./welcome-C27uW0aB.js";import"./QueryClientProvider-DuZpQXYL.js";function i({}){return[{title:"Bird Anatomy"},{name:"bird anatomy",content:"bird anatomy guide"}]}const p=t(function(){return o.jsx(r,{})});export{p as default,i as meta};

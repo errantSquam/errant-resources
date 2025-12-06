@@ -1,1 +1,0 @@
-import{w as o,p as e}from"./chunk-4WY6JWTD-Dr83Eg3U.js";import{W as t}from"./welcome-C6YJZdQj.js";import"./QueryClientProvider-B9NzlWKR.js";function i({}){return[{title:"Resources"},{name:"resources",content:"list of resources"}]}const u=o(function(){return e.jsx(t,{})});export{u as default,i as meta};
