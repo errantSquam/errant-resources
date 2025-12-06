@@ -329,6 +329,8 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 
 - [**Gun Schematics**](https://www.brownells.com/gun-schematics/)
 
+- [**Dalong.net**](http://www.dalong.net/) has images of Gunpla models and you might be able to study the mechanisms.
+
 ## Environments
 
 - [Random Street View!](https://randomstreetview.com/) randomizes a Google street view for you to practice on.
