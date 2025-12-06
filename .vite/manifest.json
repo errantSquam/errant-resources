@@ -1,0 +1,73 @@
+{
+  "_QueryClientProvider-CHFaMNAR.js": {
+    "file": "assets/QueryClientProvider-CHFaMNAR.js",
+    "name": "QueryClientProvider",
+    "imports": [
+      "_chunk-4WY6JWTD-CjbZtYx3.js"
+    ]
+  },
+  "_chunk-4WY6JWTD-CjbZtYx3.js": {
+    "file": "assets/chunk-4WY6JWTD-CjbZtYx3.js",
+    "name": "chunk-4WY6JWTD"
+  },
+  "_index-C1IsUarA.js": {
+    "file": "assets/index-C1IsUarA.js",
+    "name": "index",
+    "imports": [
+      "_QueryClientProvider-CHFaMNAR.js",
+      "_chunk-4WY6JWTD-CjbZtYx3.js"
+    ]
+  },
+  "app/root.tsx?__react-router-build-client-route": {
+    "file": "assets/root-Cy7i6IRE.js",
+    "name": "root",
+    "src": "app/root.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-4WY6JWTD-CjbZtYx3.js",
+      "_QueryClientProvider-CHFaMNAR.js"
+    ],
+    "css": [
+      "assets/root-Brj--tRI.css"
+    ]
+  },
+  "app/routes/birdanatomyroute.tsx?__react-router-build-client-route": {
+    "file": "assets/birdanatomyroute-D5AvWkLu.js",
+    "name": "birdanatomyroute",
+    "src": "app/routes/birdanatomyroute.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-4WY6JWTD-CjbZtYx3.js",
+      "_index-C1IsUarA.js",
+      "_QueryClientProvider-CHFaMNAR.js"
+    ]
+  },
+  "app/routes/home.tsx?__react-router-build-client-route": {
+    "file": "assets/home-aRF54TQc.js",
+    "name": "home",
+    "src": "app/routes/home.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-4WY6JWTD-CjbZtYx3.js",
+      "_index-C1IsUarA.js",
+      "_QueryClientProvider-CHFaMNAR.js"
+    ]
+  },
+  "app/welcome/logo-dark.svg": {
+    "file": "assets/logo-dark-pX2395Y0.svg",
+    "src": "app/welcome/logo-dark.svg"
+  },
+  "app/welcome/logo-light.svg": {
+    "file": "assets/logo-light-CVbx2LBR.svg",
+    "src": "app/welcome/logo-light.svg"
+  },
+  "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-CXTFO095.js",
+    "name": "entry.client",
+    "src": "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_chunk-4WY6JWTD-CjbZtYx3.js"
+    ]
+  }
+}
