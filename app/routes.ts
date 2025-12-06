@@ -1,5 +1,7 @@
 import { type RouteConfig, index, route } from "@react-router/dev/routes";
 
-export default [index("routes/home.tsx"),
-    route("birdanatomy", "routes/birdanatomyroute.tsx")
+export default [
+    index("routes/home.tsx"),
+    route(":tab", "routes/paramroute.tsx")
+
 ] satisfies RouteConfig;

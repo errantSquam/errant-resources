@@ -5,7 +5,8 @@ import Markdown from "react-markdown";
 import remarkToc from "remark-toc";
 import rehypeSlug from "rehype-slug";
 import rehypeExternalLinks from "rehype-external-links";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
+import { useParams, useSearchParams } from "react-router";
 
 function LinkRenderer(props: any) {
   console.log({ props });
@@ -17,13 +18,28 @@ function LinkRenderer(props: any) {
 }
 
 export function Welcome() {
+
+  let params = useParams()
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const [currentTab, setCurrentTab] = useState(searchParams.get("tab") || "resources")
+
   const mdQuery = useQuery({
-    queryKey: ['markdown'],
+    queryKey: [currentTab],
     queryFn: async () => {
-      const response = await fetch('resources.md')
+      const response = await fetch(`${currentTab}.md`)
       return response.text()
     }
   })
+
+  useEffect(() => {
+    
+    let tempTab = params.tab
+    console.log(params)
+    if (tempTab !== undefined) {
+      setCurrentTab(tempTab)
+    }
+  }, [searchParams])
 
   useEffect(() => {
     let id = window.location.hash.substring(1)
