@@ -204,6 +204,8 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
   - Yes, I'm recommending Aaron Blaise a second time because he's just that good.
   - Recommendation: **Beginner, Intermediate, Advanced**
 
+
+
 ### Insect Anatomy
 - [**Bug Drawing Tutorials** by **Mark Simmons**](https://bsky.app/profile/toysdream.bsky.social/post/3lw3yzrgn5c23)
   - Recommended: **Beginner, Intermediate, Advanced**
@@ -217,6 +219,8 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
 - [**Wolves vs Dogs** by **momo-no-aware**](https://www.tumblr.com/wolveswolves/130071295495/momo-no-aware-it-seems-like-all-of-the)
   - A good guide that goes into detail about anatomical differences between dogs and wolves, including common mistakes!
   - Recommended: **Beginner, Intermediate**
+
+
 
 ### General Animal Anatomy
 
@@ -301,6 +305,9 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 ##### Skeleton
 - [**Blackburn Lab**](https://sketchfab.com/ufherps) has 3D models of herp skeletons/muscles.
 
+##### Function
+- [**Poison Apparatus and the Biting Mechanism of Snakes**](https://magadhmahilacollege.org/wp-content/uploads/2020/05/Poison-apparatus-and-the-biting-mechanism-of-snakes.pdf) is a scientific paper that goes into how snake fangs work.
+
 ### Birds
 
 - [**eBird**](https://ebird.org/)
@@ -321,9 +328,15 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 
 - [**Skullsite**](https://skullsite.com/) has a collection of bird bones.
 
+### Dinosaurs
+- [**Dragon Tails: What Pterosaurs Teach Us about Velociraptor** by **Pterosaur.net**](https://pterosaur-net.blogspot.com/2013/01/guest-post-dragon-tails-what-pterosaurs.html?m=1) explains the degree to which dromaeosaur tails can bend.
 
 ### Mammals
 - [**Elk Anatomy Diagram**](https://www.elk101.com/wp-content/uploads/2010/11/elkshotplacement1.pdf)
+
+
+## Armor
+- [**Dragon's Armory**](https://dragonsarmory.blogspot.com/) for historical Chinese armor.
 
 ## Mecha/Hard Surface
 
@@ -336,6 +349,8 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 - [**Gun Schematics**](https://www.brownells.com/gun-schematics/)
 
 - [**Dalong.net**](http://www.dalong.net/) has images of Gunpla models and you might be able to study the mechanisms.
+
+- [**Anatomy and types of Naval Vessels**](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/ship-shapes-anatomy-and-types-of-naval-vessels.html)
 
 ## Environments
 
