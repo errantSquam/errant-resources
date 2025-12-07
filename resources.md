@@ -328,6 +328,15 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 
 - [**Skullsite**](https://skullsite.com/) has a collection of bird bones.
 
+#### Structure
+
+- [**Bird Wing Animation - Spread and Fold** by **squidlifecrisis**](https://www.youtube.com/watch?v=GFCgwglikcY)
+  - Extremely good clear visuals for bird wings, especially at weird angles (like ventral + folded)
+
+- **Live footage of bird wings** by **Backyard Bird Anatomy**
+  - Part 1 - [Underside/Ventral](https://www.youtube.com/watch?v=HqZCj_ykfYk)
+  - Part 2 - [Top Side/Dorsal](https://www.youtube.com/watch?v=TGiIlwnaNmM)
+
 ### Dinosaurs
 - [**Dragon Tails: What Pterosaurs Teach Us about Velociraptor** by **Pterosaur.net**](https://pterosaur-net.blogspot.com/2013/01/guest-post-dragon-tails-what-pterosaurs.html?m=1) explains the degree to which dromaeosaur tails can bend.
 
