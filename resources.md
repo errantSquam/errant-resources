@@ -212,6 +212,12 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
   - Also highlights a common mistake with raptorial limbs in mantises.
   - Recommended: **Beginner, Intermediate, Advanced**
 
+
+### Mammal Anatomy
+- [**Wolves vs Dogs** by **momo-no-aware**](https://www.tumblr.com/wolveswolves/130071295495/momo-no-aware-it-seems-like-all-of-the)
+  - A good guide that goes into detail about anatomical differences between dogs and wolves, including common mistakes!
+  - Recommended: **Beginner, Intermediate**
+
 ### General Animal Anatomy
 
 No tutorials that I've thoroughly vetted at the moment, besides Aaron Blaise's courses! You can't go wrong with those.
