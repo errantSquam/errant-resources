@@ -173,7 +173,7 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
   - THE bird anatomy tutorial where I link to everyone the diagram with feather overlaps. Also, feather overlaps are a **common mistake!** Please read this. Please.
   - Recommendation: **Beginner, Intermediate**
 
-- (FREE) [**Bird Anatomy Crash Course** by **ErrantSquam** (me)](?tab=birdanatomy)
+- (FREE) [**Bird Anatomy Crash Course** by **ErrantSquam** (me)](/birdanatomy)
   - My take at distilling bird anatomy into bite-sized pieces! Meant for pointing out niche anatomical facts and should not be a substitute for in depth study. 
   - Recommendation: **Beginner, Intermediate** 
 
