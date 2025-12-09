@@ -7,6 +7,7 @@ import rehypeSlug from "rehype-slug";
 import rehypeExternalLinks from "rehype-external-links";
 import { useEffect, useState } from "react";
 import { useParams, useSearchParams } from "react-router";
+import { Link } from "react-router";
 
 function LinkRenderer(props: any) {
   console.log({ props });
@@ -50,6 +51,7 @@ export function Welcome() {
   return (
     <main className="flex flex-col p-10 pt-16 pb-4 space-y-4 w-full md:w-2/3">
       <div id="top" />
+      <div><b> Looking for bird wing tutorials? Head over to <a href = "/birdanatomy/" className = "underline cursor-pointer">this link!</a></b></div>
 
       <Markdown
         remarkPlugins={[
