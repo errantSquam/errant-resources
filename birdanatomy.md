@@ -30,6 +30,11 @@ References: [[1]](https://sandiegogreg.blogspot.com/2017/01/hidden-truth-mystery
 ![](/birdanatomy/birdwing06.webp)
 References: [[1]](https://www.flickr.com/photos/winnu/11040724953/)
 
+# 05 - Foreshortening and Tricky Angles
+![](/birdanatomy/birdwing07.webp)
+
+References: [[1]](https://www.inaturalist.org/photos/30212558)
+
 #  Special Thanks
 - [**Tood**](https://toodlingart.carrd.co/) for offering insight and corrections on anatomy
 - [**Nisnow**](https://nisnow.art/) for flow and wording
