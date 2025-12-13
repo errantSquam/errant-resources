@@ -4,6 +4,12 @@
 # Foreword
 Hello! Big page here. I'll try to optimize it eventually, but for now it's a repository for the bird tutorials.
 
+This series was started with the encouragement of my friends. It serves as a quick way for me to relay bird anatomy concepts without repeating myself over and over, and is also a productive outlet for my frustrations whenever I see poorly drawn wings in professional art *(haha...)*. Additionally, it's not easy to get newbies started by pointing them to dense resources, so I'm hoping to do something more bite-sized. *(Although I do get technical at times, and I'm sorry, I just want to be accurate!!)*
+
+I do not claim to be an expert, though I strive for accuracy to the best of my ability. Corrections are appreciated, and while I can't always update social media posts, the least I could do is fix them here. I would encourage everyone to do further reading if they're interested in learning, and *Bird Anatomy for Artists* by *Dr. Natalia Balo* is the book I always recommend. It is far more comprehensive on bird anatomy than these bite-sized tutorials. 
+
+But also, **always check your references.**
+
 [Back to main page](/)
 
 # 01 - Structure and Function
