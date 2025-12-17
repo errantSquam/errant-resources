@@ -333,6 +333,9 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 - [**Bird Wing Animation - Spread and Fold** by **squidlifecrisis**](https://www.youtube.com/watch?v=GFCgwglikcY)
   - Extremely good clear visuals for bird wings, especially at weird angles (like ventral + folded)
 
+
+- [**Birds Take Flight - video reference for animators** by **Just Make Animation**](https://www.youtube.com/watch?v=CJHP6dPjuGY)
+
 - **Live footage of bird wings** by **Backyard Bird Anatomy**
   - Part 1 - [Underside/Ventral](https://www.youtube.com/watch?v=HqZCj_ykfYk)
   - Part 2 - [Top Side/Dorsal](https://www.youtube.com/watch?v=TGiIlwnaNmM)
