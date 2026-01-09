@@ -126,6 +126,9 @@ For me, I learned best taking apart models from video games and inspecting how t
   - He also uses some uncommon modelling techniques, such as using proportional editing instead of sculpt -> retopo!
   - Recommendation: **Beginner, Intermediate, Advanced**
 
+- (FREE) [**A better method for Toon Shaders** by **TheSicklyWizard**](https://youtu.be/7Pi5AUwyIJU?si=qeqOGryLuEMO0L21)
+  - Quick video explaining a non-color ramp shader that's equally as simple and more reactive to colored lights.
+
 ### Vector Art/Graphic Design
 
 If you're looking for a graphic design/prototyping program, I'll always recommend [*Figma!*](https://www.figma.com) It's free and has built in collaboration like Google Docs. Just make sure to download the app; the website is really slow.
