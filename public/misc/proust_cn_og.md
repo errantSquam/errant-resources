@@ -15,7 +15,7 @@
 Hugo：是男的还是女的？！
 Baruk：请等一下！Hugo大人！
 Hugo：这次肯定是男的吧！！
-Baruk：请为Chris大人的身体着想啊！
+Baruk：请为Chris夫人的身体着想啊！
 Hugo：是男的啦！！
 Baruk：Hugo大人……？
 Hugo：Baruk。
