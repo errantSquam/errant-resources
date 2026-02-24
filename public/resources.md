@@ -327,6 +327,9 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 - [**Respectful Owl Photography** by International Owl Center](https://www.internationalowlcenter.org/respectful_observation.html#:~:text=Move%20slowly%20and%20keep%20your,it's%20safe%20to%20do%20so.) 
   - very good examples of various owl body language
 
+- [**Seabird Identification Guide** by NSW Government](https://seabirdrescue.org.au/wp-content/uploads/2024/08/seabird-identification-guide-240138.pdf)
+  - Good diagrams on seabird anatomy, as well as their anatomical differences.
+
 #### Skeleton 
 
 - [**Skullsite**](https://skullsite.com/) has a collection of bird bones.
