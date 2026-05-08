@@ -248,6 +248,8 @@ However, the Visual Library section has a lot of specific resources :)
 
 - [**Reference Angle**](http://referenceangle.com/) lets you rotate a 3D head and get reference photos in that angle!
 
+- [**Pose Search**](https://x6ud.github.io/pose-search/#/) is similar, but you can rotate a 3D model of a human body and get specific poses for parts like limbs or torsos!
+
 - Various nude human pose packs from **Artstation**, which range between $10-30. Worth picking up one for high-res references!
 
 ### Anime
