@@ -7,3 +7,6 @@
 # File Transfer
 
 [Buzzheavier](https://buzzheavier.com) has no file size limits or throttling, but files expire after a while if there aren't any downloads.
+
+
+[Typerip](https://ftp.4096.one/typerip/) for ripping Adobe fonts.

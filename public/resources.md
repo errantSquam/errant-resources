@@ -104,6 +104,8 @@ These are also worth a watch, and free! I tend to prefer no-nonsense YouTube vid
   - Recommendation: **Beginner**
 
 - (FREE) [**Cyangmou's Pixel Art Tutorials**](https://lospec.com/pixel-art-tutorials/author/cyangmou)
+  - Some links are dead so consider checking [**Cyangmou's Ko-Fi Beginner Starter Pack**](https://ko-fi.com/album/Pixel-art-for-beginners--starter-pack-F1F2ZEXBC) as well,
+  - ...and also his [**Ko-Fi Gallery**](https://ko-fi.com/cyangmou/gallery).
   - Nice, bite-sized tutorials that occasionally analyze your favourite video game.
   - Recommendation: **Beginner, Intermediate, Advanced**
 
