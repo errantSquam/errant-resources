@@ -267,6 +267,7 @@ However, the Visual Library section has a lot of specific resources :)
 ### General
 
 Good Google search term word for anatomy: `myology`
+You can also look up field guides for local species as well! They have more thorough notes on specific species and how to ID them, which can be helpful as an art reference. 
 
 - [**Animal Perspective Photo Reference Search** by **x6udpngx**](https://x6ud.github.io/#/)
   - Lets you turn around a 3D animal skull and retrieves reference images from that angle! Reference Angle but for animals.
@@ -367,6 +368,7 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 - High quality aeroplane resources:
   - [**jetphotos**](https://jetphotos.net)
   - [**airliners.net**](https://airliners.net)
+  - [**Aero Icarus' Flickr**](https://www.flickr.com/photos/aero_icarus/albums/page1)
 
 - [**Gun Schematics**](https://www.brownells.com/gun-schematics/)
 
