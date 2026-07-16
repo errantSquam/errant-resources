@@ -262,6 +262,9 @@ However, the Visual Library section has a lot of specific resources :)
 
 - [**Gesture Drawing Party**](https://www.youtube.com/@gesdrawparty) is a YouTube channel with free, recorded gesture drawing sessions.
 
+### Fashion
+- [**Fashion History**](https://fashionhistory.fitnyc.edu/)
+
 ## Animal
 
 ### General
