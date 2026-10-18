@@ -283,6 +283,8 @@ You can also look up field guides for local species as well! They have more thor
 
 - [**The Dissection of Vertebrates, Third Edition**](https://batrachos.com/sites/default/files/pictures/Books/De%20Iuliis_Puler%C3%A0_2019_The%20Dissection%20of%20Vertebrates.pdf) (extremely technical)
 
+- [**Singapore Biodiversity**](https://singapore.biodiversity.online/) for the singaporeans :)
+
 #### Muscle
 
 - Veterinary Anatomy websites:
@@ -382,6 +384,8 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
 ## Environments
 
 - [Random Street View!](https://randomstreetview.com/) randomizes a Google street view for you to practice on.
+
+- [Funes](https://funes.world/) provides 3d models of historical buildings
 
 ## Other
 
