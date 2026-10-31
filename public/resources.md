@@ -211,13 +211,17 @@ If you're looking for a graphic design/prototyping program, I'll always recommen
 
 
 
-### Insect Anatomy
+### Invertebrate (Mostly Arthropod) Anatomy
 - [**Bug Drawing Tutorials** by **Mark Simmons**](https://bsky.app/profile/toysdream.bsky.social/post/3lw3yzrgn5c23)
   - Recommended: **Beginner, Intermediate, Advanced**
   
 - [**Insect Limb Tips** by **Bogleech**](https://www.tumblr.com/bogleech/169792116898/i-often-have-trouble-reading-insect-anatomy-and)
   - Also highlights a common mistake with raptorial limbs in mantises.
   - Recommended: **Beginner, Intermediate, Advanced**
+
+- [**Invertebrate Zoology Online**](https://lanwebs.lander.edu/faculty/rsfox/invertebrates/)
+  - Posting this both under tutorial and visual library as it is probably the most comprehensive documentation of invertebrate anatomy AND explains some niche parts about them
+  - Recommended: **Advanced**
 
 
 ### Mammal Anatomy
@@ -356,12 +360,15 @@ Mostly taken from [this reddit post](https://www.reddit.com/r/bonecollecting/com
   - Part 1 - [Underside/Ventral](https://www.youtube.com/watch?v=HqZCj_ykfYk)
   - Part 2 - [Top Side/Dorsal](https://www.youtube.com/watch?v=TGiIlwnaNmM)
 
-### Dinosaurs
+### Paleofauna
 - [**Dragon Tails: What Pterosaurs Teach Us about Velociraptor** by **Pterosaur.net**](https://pterosaur-net.blogspot.com/2013/01/guest-post-dragon-tails-what-pterosaurs.html?m=1) explains the degree to which dromaeosaur tails can bend.
 
 ### Mammals
 - [**Elk Anatomy Diagram**](https://www.elk101.com/wp-content/uploads/2010/11/elkshotplacement1.pdf)
 
+## Arthropods
+- [**Invertebrate Zoology Online**](https://lanwebs.lander.edu/faculty/rsfox/invertebrates/)
+  - Posting this both under tutorial and visual library as it is probably the most comprehensive documentation of invertebrate anatomy AND explains some niche parts about them
 
 ## Armor
 - [**Dragon's Armory**](https://dragonsarmory.blogspot.com/) for historical Chinese armor.
