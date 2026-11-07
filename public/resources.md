@@ -268,6 +268,7 @@ However, the Visual Library section has a lot of specific resources :)
 
 ### Fashion
 - [**Fashion History**](https://fashionhistory.fitnyc.edu/)
+- [**Tokyo Fashion**](https://tokyofashion.com/)
 
 ## Animal
 
