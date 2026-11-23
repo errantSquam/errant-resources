@@ -123,7 +123,7 @@ For me, I learned best taking apart models from video games and inspecting how t
   - Donuts guy got cancelled for NFTs or something, so we as a society should move onto recommending different bite-sized tutorials for beginners.
   - Recommendation: **Beginner**
 
-- (FREE) [**Face Modelling tutorial** by **夏森轄**](https://www.youtube.com/watch?v=uUqQw6VpFP)
+- (FREE) [**Face Modelling tutorial** by **夏森轄**](https://www.youtube.com/watch?v=uUqQw6VpFP8)
   - English tutorials are easy enough to find, but 夏森轄's video showcases techniques close to industry standard for stylized faces.
   - He also uses some uncommon modelling techniques, such as using proportional editing instead of sculpt -> retopo!
   - Recommendation: **Beginner, Intermediate, Advanced**
